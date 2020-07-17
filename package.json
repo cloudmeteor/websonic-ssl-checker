@@ -1,0 +1,21 @@
+{
+  "name": "websonic-ssl-checker",
+  "version": "1.0.0",
+  "description": "aws lambda proxy for ssl cert validation",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudmeteor/websonic-ssl-checker.git"
+  },
+  "author": "cloudmeteor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloudmeteor/websonic-ssl-checker/issues"
+  },
+  "homepage": "https://github.com/cloudmeteor/websonic-ssl-checker#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
